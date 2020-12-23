@@ -1,0 +1,40 @@
+html{
+    ont-family: Helvetica, sans-serif;
+}
+
+body{
+    margin: 4%;
+    text-align: center;
+    background: url("https://source.unsplash.com/random") center/cover no-repeat;
+    font-size: 10px;
+}
+
+section{
+    background: rgba(173, 167, 151, 0.3);
+    border-radius: 4px;
+    padding: 0.01% 2%; 
+}
+
+h1{
+    
+    font-size: 2rem;
+    color: white;
+}
+
+article{
+    font-size: 1.5em;
+    background: rgba(227, 221, 204, 0.3);
+    border-radius: 4px;
+    padding: 1% 2%;;
+    margin-top: 30px;
+    
+}
+
+article p:first-child{
+    /* padding-top: 20px; */
+}
+
+h2{
+    font-size: 1.2em;
+    /* margin: 4% auto; */
+}
